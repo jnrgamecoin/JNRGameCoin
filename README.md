@@ -1,23 +1,23 @@
-JNRGameCoin Core integration/staging tree
+jnrgamecoin Core integration/staging tree
 =====================================
 
 https://jnrgamecoin.ml
 
-For an immediately usable, binary version of the JNRGameCoin Core software, see
+For an immediately usable, binary version of the jnrgamecoin Core software, see
 .
 
 Further information about JNRGameCoin Core is available in the [doc folder](/doc).
 
-What is JNRGameCoin?
+What is jnrgamecoin?
 ----------------
 
-JNRGameCoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. JNRGameCoin uses peer-to-peer technology to operate
+jnrgamecoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. jnrgamecoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. JNRGameCoin Core is the name of open source
+out collectively by the network. jnrgamecoin Core is the name of open source
 software which enables the use of this currency.
 
-For more information read the original JNRGameCoin whitepaper.
+For more information read the original jnrgamecoin whitepaper.
 
 License
 -------
@@ -29,8 +29,8 @@ Development Process
 -------------------
 
 The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
-completely stable. [Tags](https://github.com/jnrgamecoin/JNRGameCoin/tags) are created
-regularly from release branches to indicate new official, stable release versions of JNRGameCoin Core.
+completely stable. [Tags](https://github.com/jnrgamecoin/jnrgamecoin/tags) are created
+regularly from release branches to indicate new official, stable release versions of jnrgamecoin Core.
 
 The https://github.com/jnrgamecoin/gui repository is used exclusively for the
 development of the GUI. Its master branch is identical in all monotree
