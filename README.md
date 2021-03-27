@@ -6,7 +6,7 @@ https://jnrgamecoin.ml
 For an immediately usable, binary version of the jnrgamecoin Core software, see
 .
 
-Further information about JNRGameCoin Core is available in the [doc folder](/doc).
+Further information about jnrgamecoin Core is available in the [doc folder](/doc).
 
 What is jnrgamecoin?
 ----------------
