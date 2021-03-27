@@ -17,12 +17,12 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. JNRGameCoin Core is the name of open source
 software which enables the use of this currency.
 
-For more information read the original Bitcoin whitepaper.
+For more information read the original JNRGameCoin whitepaper.
 
 License
 -------
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+JNRGameCoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
@@ -30,7 +30,7 @@ Development Process
 
 The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
 completely stable. [Tags](https://github.com/jnrgamecoin/JNRGameCoin/tags) are created
-regularly from release branches to indicate new official, stable release versions of Bitcoin Core.
+regularly from release branches to indicate new official, stable release versions of JNRGameCoin Core.
 
 The https://github.com/jnrgamecoin/gui repository is used exclusively for the
 development of the GUI. Its master branch is identical in all monotree
